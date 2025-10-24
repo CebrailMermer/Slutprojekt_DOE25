@@ -1,0 +1,13 @@
+Date,Time,Level,Entry
+2025-10-22,13:56:59,INFO,Logger initialized and ready.
+2025-10-22,13:57:01,INPUT,User_Input_MenuChoice: 1
+2025-10-22,13:57:01,INFO,Monitoring process started.
+2025-10-22,13:57:02,STATUS,CPU: 8.0%, RAM: 78.0%
+2025-10-22,13:57:04,INPUT,User_Input_MenuChoice: 2
+2025-10-22,13:57:07,STATUS,CPU: 5.7%, RAM: 77.9%
+2025-10-22,13:57:12,STATUS,CPU: 4.7%, RAM: 78.5%
+2025-10-22,13:57:18,STATUS,CPU: 7.5%, RAM: 75.4%
+2025-10-22,13:57:23,STATUS,CPU: 9.7%, RAM: 75.6%
+2025-10-22,13:57:28,STATUS,CPU: 3.2%, RAM: 75.5%
+2025-10-22,13:57:30,INPUT,User_Input_MenuChoice: 7
+2025-10-22,13:57:32,INFO,Monitoring process stopped.

@@ -1,0 +1,5 @@
+Date,Time,Level,Entry
+2025-10-23,13:09:46,INFO,Logger initialized and ready.
+2025-10-23,13:09:49,INPUT,User_Input_MenuChoice: 6
+2025-10-23,13:09:52,INPUT,User_Input_LogLines: 88888
+2025-10-23,13:10:54,INPUT,User_Input_MenuChoice: 7

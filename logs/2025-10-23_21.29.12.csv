@@ -1,0 +1,6 @@
+2025-10-23,21:29:12,INFO,Attempting to load alarms from disk.
+2025-10-23,21:29:12,INFO,Successfully loaded 0 alarms from disk.
+2025-10-23,21:29:12,INFO,Logger initialized and ready.
+2025-10-23,21:29:17,INPUT,User_Input_MenuChoice: 1
+2025-10-23,21:29:17,INFO,Monitoring thread started.
+2025-10-23,21:29:18,MONITOR,CPU Usage: 6.3%, RAM Usage: 71.4%

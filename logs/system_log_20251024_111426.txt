@@ -1,0 +1,99 @@
+2025-10-24 11:14:26 [SYSTEM] Ny loggfil skapad.
+2025-10-24 11:14:26 [SYSTEM] Alarm_Monitoring_Thread_Started
+2025-10-24 11:28:19 [SYSTEM] Alarm_Monitoring_Thread_Started
+2025-10-24 11:28:38 [SYSTEM] GUI_closing._Stopping_monitoring_thread
+2025-10-24 11:28:38 [SYSTEM] Alarm_Monitoring_Thread_Stopped
+2025-10-24 11:31:19 [INFO] Alarm_initialized:_CPU larm @ 90%_(cpu>=90%)_ID:2a55ea72
+2025-10-24 11:31:19 [INFO] Alarm_initialized:_Warning!!! Very high CPU usage._(cpu>=90%)_ID:3a1f1a8e
+2025-10-24 11:31:19 [INFO] Alarm_initialized:_RAM usage is very high_(ram>=80%)_ID:db36de9a
+2025-10-24 11:31:19 [INFO] Alarm_initialized:_CPU close to crash_(cpu>=5%)_ID:aa47935f
+2025-10-24 11:31:19 [INFO] Alarm_initialized:_Very low RAM usage_(ram>=5%)_ID:fb7ba637
+2025-10-24 11:31:19 [INFO] Alarm_initialized:_CPU usage high - High Level_(cpu>=80%)_ID:58f2ef82
+2025-10-24 11:31:19 [INFO] Alarm_initialized:_CPU Alarm @ 80 %_(cpu>=80%)_ID:0510e45c
+2025-10-24 11:31:19 [INFO] Alarm_initialized:_CPU Alarm @ 5 %_(cpu>=5%)_ID:d9303075
+2025-10-24 11:31:19 [INFO] Alarm_initialized:_CPU Alarm @ 95 %_(cpu>=95%)_ID:fb2e673d
+2025-10-24 11:31:19 [SYSTEM] Successfully_loaded_9_alarms_from_alarms.json
+2025-10-24 11:31:19 [SYSTEM] Starting_system_monitoring_thread
+2025-10-24 11:31:19 [INFO] Monitoring_thread_is_running
+2025-10-24 11:31:20 [CRITICAL] Alarm_TRIGGERED:_Very low RAM usage_ram>=5%_Current:74.4%
+2025-10-24 11:42:08 [INFO] Alarm_initialized:_CPU larm @ 90%_(cpu>=90%)_ID:2a55ea72
+2025-10-24 11:42:08 [INFO] Alarm_initialized:_Warning!!! Very high CPU usage._(cpu>=90%)_ID:3a1f1a8e
+2025-10-24 11:42:08 [INFO] Alarm_initialized:_RAM usage is very high_(ram>=80%)_ID:db36de9a
+2025-10-24 11:42:08 [INFO] Alarm_initialized:_CPU close to crash_(cpu>=5%)_ID:aa47935f
+2025-10-24 11:42:08 [INFO] Alarm_initialized:_Very low RAM usage_(ram>=5%)_ID:fb7ba637
+2025-10-24 11:42:08 [INFO] Alarm_initialized:_CPU usage high - High Level_(cpu>=80%)_ID:58f2ef82
+2025-10-24 11:42:08 [INFO] Alarm_initialized:_CPU Alarm @ 80 %_(cpu>=80%)_ID:0510e45c
+2025-10-24 11:42:08 [INFO] Alarm_initialized:_CPU Alarm @ 5 %_(cpu>=5%)_ID:d9303075
+2025-10-24 11:42:08 [INFO] Alarm_initialized:_CPU Alarm @ 95 %_(cpu>=95%)_ID:fb2e673d
+2025-10-24 11:42:08 [SYSTEM] Successfully_loaded_9_alarms_from_alarms.json
+2025-10-24 11:42:08 [SYSTEM] Starting_system_monitoring_thread
+2025-10-24 11:42:08 [INFO] Monitoring_thread_is_running
+2025-10-24 11:42:09 [CRITICAL] Alarm_TRIGGERED:_Very low RAM usage_ram>=5%_Current:75.4%
+2025-10-24 11:46:16 [INFO] Alarm_initialized:_CPU larm @ 90%_(cpu>=90%)_ID:2a55ea72
+2025-10-24 11:46:16 [INFO] Alarm_initialized:_Warning!!! Very high CPU usage._(cpu>=90%)_ID:3a1f1a8e
+2025-10-24 11:46:16 [INFO] Alarm_initialized:_RAM usage is very high_(ram>=80%)_ID:db36de9a
+2025-10-24 11:46:16 [INFO] Alarm_initialized:_CPU close to crash_(cpu>=5%)_ID:aa47935f
+2025-10-24 11:46:16 [INFO] Alarm_initialized:_Very low RAM usage_(ram>=5%)_ID:fb7ba637
+2025-10-24 11:46:16 [INFO] Alarm_initialized:_CPU usage high - High Level_(cpu>=80%)_ID:58f2ef82
+2025-10-24 11:46:16 [INFO] Alarm_initialized:_CPU Alarm @ 80 %_(cpu>=80%)_ID:0510e45c
+2025-10-24 11:46:16 [INFO] Alarm_initialized:_CPU Alarm @ 5 %_(cpu>=5%)_ID:d9303075
+2025-10-24 11:46:16 [INFO] Alarm_initialized:_CPU Alarm @ 95 %_(cpu>=95%)_ID:fb2e673d
+2025-10-24 11:46:16 [SYSTEM] Successfully_loaded_9_alarms_from_alarms.json
+2025-10-24 11:46:16 [SYSTEM] Starting_system_monitoring_thread
+2025-10-24 11:46:16 [INFO] Monitoring_thread_is_running
+2025-10-24 11:46:16 [CRITICAL] Alarm_TRIGGERED:_Very low RAM usage_ram>=5%_Current:71.2%
+2025-10-24 12:05:12 [INFO] Alarm_initialized:_CPU larm @ 90%_(cpu>=90%)_ID:2a55ea72
+2025-10-24 12:05:12 [INFO] Alarm_initialized:_Warning!!! Very high CPU usage._(cpu>=90%)_ID:3a1f1a8e
+2025-10-24 12:05:12 [INFO] Alarm_initialized:_RAM usage is very high_(ram>=80%)_ID:db36de9a
+2025-10-24 12:05:12 [INFO] Alarm_initialized:_CPU close to crash_(cpu>=5%)_ID:aa47935f
+2025-10-24 12:05:12 [INFO] Alarm_initialized:_Very low RAM usage_(ram>=5%)_ID:fb7ba637
+2025-10-24 12:05:12 [INFO] Alarm_initialized:_CPU usage high - High Level_(cpu>=80%)_ID:58f2ef82
+2025-10-24 12:05:12 [INFO] Alarm_initialized:_CPU Alarm @ 80 %_(cpu>=80%)_ID:0510e45c
+2025-10-24 12:05:12 [INFO] Alarm_initialized:_CPU Alarm @ 5 %_(cpu>=5%)_ID:d9303075
+2025-10-24 12:05:12 [INFO] Alarm_initialized:_CPU Alarm @ 95 %_(cpu>=95%)_ID:fb2e673d
+2025-10-24 12:05:12 [SYSTEM] Successfully_loaded_9_alarms_from_alarms.json
+2025-10-24 12:05:12 [SYSTEM] Application_started
+2025-10-24 12:05:12 [SYSTEM] Starting_system_monitoring_thread
+2025-10-24 12:05:12 [INFO] Monitoring_thread_is_running
+2025-10-24 12:05:12 [CRITICAL] Alarm_TRIGGERED:_Very low RAM usage_ram>=5%_Current:70.5%
+2025-10-24 12:05:17 [CRITICAL] Alarm_TRIGGERED:_CPU close to crash_cpu>=5%_Current:57.9%
+2025-10-24 12:05:17 [CRITICAL] Alarm_TRIGGERED:_CPU Alarm @ 5 %_cpu>=5%_Current:57.9%
+2025-10-24 12:07:23 [INFO] Alarm_initialized:_CPU larm @ 90%_(cpu>=90%)_ID:2a55ea72
+2025-10-24 12:07:23 [INFO] Alarm_initialized:_Warning!!! Very high CPU usage._(cpu>=90%)_ID:3a1f1a8e
+2025-10-24 12:07:23 [INFO] Alarm_initialized:_RAM usage is very high_(ram>=80%)_ID:db36de9a
+2025-10-24 12:07:23 [INFO] Alarm_initialized:_CPU close to crash_(cpu>=5%)_ID:aa47935f
+2025-10-24 12:07:23 [INFO] Alarm_initialized:_Very low RAM usage_(ram>=5%)_ID:fb7ba637
+2025-10-24 12:07:23 [INFO] Alarm_initialized:_CPU usage high - High Level_(cpu>=80%)_ID:58f2ef82
+2025-10-24 12:07:23 [INFO] Alarm_initialized:_CPU Alarm @ 80 %_(cpu>=80%)_ID:0510e45c
+2025-10-24 12:07:23 [INFO] Alarm_initialized:_CPU Alarm @ 5 %_(cpu>=5%)_ID:d9303075
+2025-10-24 12:07:23 [INFO] Alarm_initialized:_CPU Alarm @ 95 %_(cpu>=95%)_ID:fb2e673d
+2025-10-24 12:07:23 [SYSTEM] Successfully_loaded_9_alarms_from_alarms.json
+2025-10-24 12:07:23 [SYSTEM] Application_started
+2025-10-24 12:07:23 [SYSTEM] Starting_system_monitoring_thread
+2025-10-24 12:07:23 [INFO] Monitoring_thread_is_running
+2025-10-24 12:07:23 [CRITICAL] Alarm_TRIGGERED:_Very low RAM usage_ram>=5%_Current:74.2%
+2025-10-24 12:07:28 [CRITICAL] Alarm_TRIGGERED:_CPU close to crash_cpu>=5%_Current:36.9%
+2025-10-24 12:07:28 [CRITICAL] Alarm_TRIGGERED:_CPU Alarm @ 5 %_cpu>=5%_Current:36.9%
+2025-10-24 12:10:23 [INFO] Alarm_initialized:_CPU larm @ 90%_(cpu>=90%)_ID:2a55ea72
+2025-10-24 12:10:23 [INFO] Alarm_initialized:_Warning!!! Very high CPU usage._(cpu>=90%)_ID:3a1f1a8e
+2025-10-24 12:10:23 [INFO] Alarm_initialized:_RAM usage is very high_(ram>=80%)_ID:db36de9a
+2025-10-24 12:10:23 [INFO] Alarm_initialized:_CPU close to crash_(cpu>=5%)_ID:aa47935f
+2025-10-24 12:10:23 [INFO] Alarm_initialized:_Very low RAM usage_(ram>=5%)_ID:fb7ba637
+2025-10-24 12:10:23 [INFO] Alarm_initialized:_CPU usage high - High Level_(cpu>=80%)_ID:58f2ef82
+2025-10-24 12:10:23 [INFO] Alarm_initialized:_CPU Alarm @ 80 %_(cpu>=80%)_ID:0510e45c
+2025-10-24 12:10:23 [INFO] Alarm_initialized:_CPU Alarm @ 5 %_(cpu>=5%)_ID:d9303075
+2025-10-24 12:10:23 [INFO] Alarm_initialized:_CPU Alarm @ 95 %_(cpu>=95%)_ID:fb2e673d
+2025-10-24 12:10:23 [SYSTEM] Successfully_loaded_9_alarms_from_alarms.json
+2025-10-24 12:10:23 [SYSTEM] Application_started
+2025-10-24 12:10:23 [SYSTEM] Starting_system_monitoring_thread
+2025-10-24 12:10:23 [INFO] Monitoring_thread_is_running
+2025-10-24 12:10:23 [CRITICAL] Alarm_TRIGGERED:_Very low RAM usage_ram>=5%_Current:72.9%
+2025-10-24 12:10:28 [CRITICAL] Alarm_TRIGGERED:_CPU close to crash_cpu>=5%_Current:58.5%
+2025-10-24 12:10:28 [CRITICAL] Alarm_TRIGGERED:_CPU Alarm @ 5 %_cpu>=5%_Current:58.5%
+2025-10-24 12:12:05 [INFO] Alarm_initialized:_CPU 80% usage limitation is reached now_(cpu>=80%)_ID:3fff6ffb
+2025-10-24 12:12:05 [SYSTEM] Successfully_saved_10_alarms_to_alarms.json
+2025-10-24 12:12:05 [SUCCESS] New_alarm_created:_CPU 80% usage limitation is reached now
+2025-10-24 12:12:36 [SYSTEM] GUI_Closing
+2025-10-24 12:12:36 [SYSTEM] Stopping_system_monitoring_thread
+2025-10-24 12:12:36 [INFO] Monitoring_thread_terminated
+2025-10-24 12:12:36 [SYSTEM] Application_shutting_down

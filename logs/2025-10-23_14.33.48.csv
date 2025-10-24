@@ -1,0 +1,23 @@
+2025-10-23,14:33:48,INFO,AlarmManager initialized.
+2025-10-23,14:33:48,INFO,Logger initialized and ready.
+2025-10-23,14:33:54,INPUT,User_Input_MenuChoice: 1
+2025-10-23,14:33:54,INFO,Monitoring process started.
+2025-10-23,14:33:55,STATUS,CPU: 16.4%, RAM: 71.8%
+2025-10-23,14:37:23,INPUT,User_Input_MenuChoice: 
+2025-10-23,14:37:26,INPUT,User_Input_MenuChoice: 1
+2025-10-23,14:37:26,INFO,Monitoring process started.
+2025-10-23,14:37:27,STATUS,CPU: 16.1%, RAM: 75.7%
+2025-10-23,14:37:29,INPUT,User_Input_MenuChoice: 2
+2025-10-23,14:37:44,INPUT,User_Input_MenuChoice: 2
+2025-10-23,14:37:50,INPUT,User_Input_MenuChoice: 3
+2025-10-23,14:37:53,INPUT,User_Input_AlarmType: 1
+2025-10-23,14:37:58,INPUT,User_Input_Threshold: >
+2025-10-23,14:38:09,INPUT,User_Input_Threshold: 120
+2025-10-23,14:38:14,INPUT,User_Input_Threshold: 90
+2025-10-23,14:38:14,ALARM_CONFIG,Alarm created: Alarm ID: 1, Type: CPU, Threshold: 90%
+2025-10-23,14:38:39,INPUT,User_Input_MenuChoice: 3
+2025-10-23,14:38:41,INPUT,User_Input_AlarmType: 2
+2025-10-23,14:38:51,INPUT,User_Input_Threshold: >
+2025-10-23,14:38:54,INPUT,User_Input_Threshold: 95
+2025-10-23,14:38:54,ALARM_CONFIG,Alarm created: Alarm ID: 2, Type: RAM, Threshold: 95%
+2025-10-23,14:49:17,INPUT,User_Input_MenuChoice: 7

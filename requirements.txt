@@ -1,0 +1,2 @@
+# External libriaries for Slutprojekt DOE25
+psutil

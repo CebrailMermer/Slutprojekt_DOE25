@@ -1,0 +1,38 @@
+2025-10-23,18:38:50,INFO,AlarmManager initialized.
+2025-10-23,18:38:50,INFO,Logger initialized and ready.
+2025-10-23,18:38:52,INPUT,User_Input_MenuChoice: 1
+2025-10-23,18:38:52,INFO,Monitoring thread started.
+2025-10-23,18:38:53,MONITOR,CPU Usage: 5.3%, RAM Usage: 73.6%
+2025-10-23,18:39:04,INPUT,User_Input_MenuChoice: [A
+2025-10-23,18:39:13,INPUT,User_Input_MenuChoice: 1
+2025-10-23,18:39:18,INPUT,User_Input_MenuChoice: 2
+2025-10-23,18:39:26,INPUT,User_Input_MenuChoice: 2
+2025-10-23,18:39:33,INPUT,User_Input_MenuChoice: 3
+2025-10-23,18:39:36,INPUT,User_Input_AlarmType: 1
+2025-10-23,18:39:40,INPUT,User_Input_Threshold: 90
+2025-10-23,18:40:45,INPUT,User_Input_AlarmName: WARNING!!! Very High CPU usage
+2025-10-23,18:40:45,ALARM_CONFIG,Alarm created: Alarm ID: 1 (WARNING!!! Very High CPU usage), Type: CPU, Threshold: 90%
+2025-10-23,18:40:46,INPUT,User_Input_Continue_Alarm: 
+2025-10-23,18:40:55,INPUT,User_Input_Continue_Alarm: Y
+2025-10-23,19:22:23,INPUT,User_Input_AlarmType: 1
+2025-10-23,19:22:31,INPUT,User_Input_Threshold: 95
+2025-10-23,19:23:21,INPUT,User_Input_AlarmName: WARNING! Now your CPU usage exceeded th
+2025-10-23,19:23:21,ALARM_CONFIG,Alarm created: Alarm ID: 2 (WARNING! Now your CPU usage exceeded th), Type: CPU, Threshold: 95%
+2025-10-23,19:23:25,INPUT,User_Input_Continue_Alarm: Y
+2025-10-23,19:23:28,INPUT,User_Input_AlarmType: 2
+2025-10-23,19:23:36,INPUT,User_Input_Threshold: 95
+2025-10-23,19:24:01,INPUT,User_Input_AlarmName: WARNING!! Your DISK is soon full!
+2025-10-23,19:24:01,ALARM_CONFIG,Alarm created: Alarm ID: 3 (WARNING!! Your DISK is soon full!), Type: RAM, Threshold: 95%
+2025-10-23,19:24:04,INPUT,User_Input_Continue_Alarm: N
+2025-10-23,19:24:07,INPUT,User_Input_MenuChoice: 1
+2025-10-23,19:24:13,INPUT,User_Input_MenuChoice: 2
+2025-10-23,19:24:28,INPUT,User_Input_MenuChoice: 3
+2025-10-23,19:24:34,INPUT,User_Input_AlarmType: 0
+2025-10-23,19:25:05,INPUT,User_Input_AlarmType: 0
+2025-10-23,19:25:08,INPUT,User_Input_AlarmType: 0
+2025-10-23,19:26:23,INPUT,User_Input_AlarmType: 1
+2025-10-23,19:26:28,INPUT,User_Input_Threshold: 90
+2025-10-23,19:26:43,INPUT,User_Input_AlarmName: Very high CPU usage
+2025-10-23,19:26:43,ALARM_CONFIG,Alarm created: Alarm ID: 4 (Very high CPU usage), Type: CPU, Threshold: 90%
+2025-10-23,19:26:53,INPUT,User_Input_Continue_Alarm: N
+2025-10-23,19:48:43,INPUT,User_Input_MenuChoice: 7

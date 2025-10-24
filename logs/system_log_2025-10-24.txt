@@ -1,0 +1,193 @@
+[2025-10-24 03:19:02][SYSTEM] Program_starts
+[2025-10-24 03:20:41][ERROR] ERROR_loading_alarms: 'resource'
+[2025-10-24 03:20:41][SYSTEM] Program_starts
+[2025-10-24 03:20:41][ERROR] ERROR_loading_alarms: 'resource'
+[2025-10-24 03:20:41][ERROR] ERROR_loading_alarms: 'resource'
+[2025-10-24 03:20:41][UI] Menu_displayed_to_user
+[2025-10-24 03:23:54][SYSTEM] Program_terminated_via_KeyboardInterrupt
+[2025-10-24 03:31:15][WARNING] SKIPPED_ALARM: Invalid alarm data found in JSON. Missing key: 'resource'
+[2025-10-24 03:31:15][WARNING] SKIPPED_ALARM: Invalid alarm data found in JSON. Missing key: 'resource'
+[2025-10-24 03:31:15][CONFIG] Loaded_0_alarms_from_file
+[2025-10-24 03:31:15][SYSTEM] Program_starts
+[2025-10-24 03:31:15][WARNING] SKIPPED_ALARM: Invalid alarm data found in JSON. Missing key: 'resource'
+[2025-10-24 03:31:15][WARNING] SKIPPED_ALARM: Invalid alarm data found in JSON. Missing key: 'resource'
+[2025-10-24 03:31:15][CONFIG] Loaded_0_alarms_from_file
+[2025-10-24 03:31:15][WARNING] SKIPPED_ALARM: Invalid alarm data found in JSON. Missing key: 'resource'
+[2025-10-24 03:31:15][WARNING] SKIPPED_ALARM: Invalid alarm data found in JSON. Missing key: 'resource'
+[2025-10-24 03:31:15][CONFIG] Loaded_0_alarms_from_file
+[2025-10-24 03:31:15][UI] Menu_displayed_to_user
+[2025-10-24 03:31:21][INPUT] User_input:1
+[2025-10-24 03:31:21][SYSTEM] Alarm_monitoring_thread_started
+[2025-10-24 03:31:21][SYSTEM] Monitoring_loop_running_at_5s_interval
+[2025-10-24 03:31:21][SYSTEM] Monitoring_mode_started
+[2025-10-24 03:31:30][SYSTEM] Monitoring_mode_exited_via_CtrlC
+[2025-10-24 03:31:31][WARNING] SKIPPED_ALARM: Invalid alarm data found in JSON. Missing key: 'resource'
+[2025-10-24 03:31:31][WARNING] SKIPPED_ALARM: Invalid alarm data found in JSON. Missing key: 'resource'
+[2025-10-24 03:31:31][CONFIG] Loaded_0_alarms_from_file
+[2025-10-24 03:31:31][UI] Menu_displayed_to_user
+[2025-10-24 03:31:39][INPUT] User_input:2
+[2025-10-24 03:31:39][UI] Current_system_status_listed
+[2025-10-24 03:32:23][UI] Return_to_main_menu_confirmed
+[2025-10-24 03:32:23][WARNING] SKIPPED_ALARM: Invalid alarm data found in JSON. Missing key: 'resource'
+[2025-10-24 03:32:23][WARNING] SKIPPED_ALARM: Invalid alarm data found in JSON. Missing key: 'resource'
+[2025-10-24 03:32:23][CONFIG] Loaded_0_alarms_from_file
+[2025-10-24 03:32:23][UI] Menu_displayed_to_user
+[2025-10-24 03:32:25][INPUT] User_input:2
+[2025-10-24 03:32:25][UI] Current_system_status_listed
+[2025-10-24 03:32:33][UI] Return_to_main_menu_confirmed
+[2025-10-24 03:32:33][WARNING] SKIPPED_ALARM: Invalid alarm data found in JSON. Missing key: 'resource'
+[2025-10-24 03:32:33][WARNING] SKIPPED_ALARM: Invalid alarm data found in JSON. Missing key: 'resource'
+[2025-10-24 03:32:33][CONFIG] Loaded_0_alarms_from_file
+[2025-10-24 03:32:33][UI] Menu_displayed_to_user
+[2025-10-24 03:32:35][INPUT] User_input:2
+[2025-10-24 03:32:35][UI] Current_system_status_listed
+[2025-10-24 03:32:44][UI] Return_to_main_menu_confirmed
+[2025-10-24 03:32:44][WARNING] SKIPPED_ALARM: Invalid alarm data found in JSON. Missing key: 'resource'
+[2025-10-24 03:32:44][WARNING] SKIPPED_ALARM: Invalid alarm data found in JSON. Missing key: 'resource'
+[2025-10-24 03:32:44][CONFIG] Loaded_0_alarms_from_file
+[2025-10-24 03:32:44][UI] Menu_displayed_to_user
+[2025-10-24 03:32:45][INPUT] User_input:2
+[2025-10-24 03:32:45][UI] Current_system_status_listed
+[2025-10-24 03:32:51][UI] Return_to_main_menu_confirmed
+[2025-10-24 03:32:51][WARNING] SKIPPED_ALARM: Invalid alarm data found in JSON. Missing key: 'resource'
+[2025-10-24 03:32:51][WARNING] SKIPPED_ALARM: Invalid alarm data found in JSON. Missing key: 'resource'
+[2025-10-24 03:32:51][CONFIG] Loaded_0_alarms_from_file
+[2025-10-24 03:32:51][UI] Menu_displayed_to_user
+[2025-10-24 03:32:52][INPUT] User_input:3
+[2025-10-24 03:33:24][INPUT] User_input_Create_Alarm:4
+[2025-10-24 03:33:25][WARNING] SKIPPED_ALARM: Invalid alarm data found in JSON. Missing key: 'resource'
+[2025-10-24 03:33:25][WARNING] SKIPPED_ALARM: Invalid alarm data found in JSON. Missing key: 'resource'
+[2025-10-24 03:33:25][CONFIG] Loaded_0_alarms_from_file
+[2025-10-24 03:33:25][UI] Menu_displayed_to_user
+[2025-10-24 03:33:33][INPUT] User_input:3
+[2025-10-24 03:33:38][INPUT] User_input_Create_Alarm:4
+[2025-10-24 03:33:38][WARNING] SKIPPED_ALARM: Invalid alarm data found in JSON. Missing key: 'resource'
+[2025-10-24 03:33:38][WARNING] SKIPPED_ALARM: Invalid alarm data found in JSON. Missing key: 'resource'
+[2025-10-24 03:33:38][CONFIG] Loaded_0_alarms_from_file
+[2025-10-24 03:33:38][UI] Menu_displayed_to_user
+[2025-10-24 03:33:41][INPUT] User_input:5
+[2025-10-24 03:33:41][UI] Attempted_to_view_alarms,_but_none_found
+[2025-10-24 03:34:04][UI] Return_to_main_menu_confirmed
+[2025-10-24 03:34:04][WARNING] SKIPPED_ALARM: Invalid alarm data found in JSON. Missing key: 'resource'
+[2025-10-24 03:34:04][WARNING] SKIPPED_ALARM: Invalid alarm data found in JSON. Missing key: 'resource'
+[2025-10-24 03:34:04][CONFIG] Loaded_0_alarms_from_file
+[2025-10-24 03:34:04][UI] Menu_displayed_to_user
+[2025-10-24 03:34:07][INPUT] User_input:6
+[2025-10-24 03:34:07][UI] Log_file_content_displayed
+[2025-10-24 03:34:40][UI] Return_to_main_menu_confirmed
+[2025-10-24 03:34:40][WARNING] SKIPPED_ALARM: Invalid alarm data found in JSON. Missing key: 'resource'
+[2025-10-24 03:34:40][WARNING] SKIPPED_ALARM: Invalid alarm data found in JSON. Missing key: 'resource'
+[2025-10-24 03:34:40][CONFIG] Loaded_0_alarms_from_file
+[2025-10-24 03:34:40][UI] Menu_displayed_to_user
+[2025-10-24 03:34:44][INPUT] User_input:6
+[2025-10-24 03:34:44][UI] Log_file_content_displayed
+[2025-10-24 03:35:23][UI] Return_to_main_menu_confirmed
+[2025-10-24 03:35:23][WARNING] SKIPPED_ALARM: Invalid alarm data found in JSON. Missing key: 'resource'
+[2025-10-24 03:35:23][WARNING] SKIPPED_ALARM: Invalid alarm data found in JSON. Missing key: 'resource'
+[2025-10-24 03:35:23][CONFIG] Loaded_0_alarms_from_file
+[2025-10-24 03:35:23][UI] Menu_displayed_to_user
+[2025-10-24 03:35:29][INPUT] User_input:5
+[2025-10-24 03:35:29][UI] Attempted_to_view_alarms,_but_none_found
+[2025-10-24 03:36:40][UI] Return_to_main_menu_confirmed
+[2025-10-24 03:36:40][WARNING] SKIPPED_ALARM: Invalid alarm data found in JSON. Missing key: 'resource'
+[2025-10-24 03:36:40][WARNING] SKIPPED_ALARM: Invalid alarm data found in JSON. Missing key: 'resource'
+[2025-10-24 03:36:40][CONFIG] Loaded_0_alarms_from_file
+[2025-10-24 03:36:40][UI] Menu_displayed_to_user
+[2025-10-24 03:36:46][INPUT] User_input:5
+[2025-10-24 03:36:46][UI] Attempted_to_view_alarms,_but_none_found
+[2025-10-24 03:41:01][UI] Return_to_main_menu_confirmed
+[2025-10-24 03:41:01][WARNING] SKIPPED_ALARM: Invalid alarm data found in JSON. Missing key: 'resource'
+[2025-10-24 03:41:01][WARNING] SKIPPED_ALARM: Invalid alarm data found in JSON. Missing key: 'resource'
+[2025-10-24 03:41:01][CONFIG] Loaded_0_alarms_from_file
+[2025-10-24 03:41:01][UI] Menu_displayed_to_user
+[2025-10-24 03:41:03][INPUT] User_input:7
+[2025-10-24 03:41:06][SYSTEM] Alarm_monitoring_thread_stopped
+[2025-10-24 03:41:06][SYSTEM] Application_is_exiting
+[2025-10-24 03:42:35][SYSTEM] No_existing_alarm_file_found:_alarms.json
+[2025-10-24 03:42:35][SYSTEM] Program_starts
+[2025-10-24 03:42:35][SYSTEM] No_existing_alarm_file_found:_alarms.json
+[2025-10-24 03:42:35][UI] Menu_displayed_to_user
+[2025-10-24 03:42:38][INPUT] User_input:3
+[2025-10-24 03:42:41][INPUT] User_input_Create_Alarm:1
+[2025-10-24 03:42:47][CONFIG] Saved_1_alarms_to_file
+[2025-10-24 03:42:47][CONFIG] Alarm_added: CPU larm @ 95% on cpu @ 95%
+[2025-10-24 03:52:22][UI] Return_to_main_menu_confirmed
+[2025-10-24 03:52:22][UI] Menu_displayed_to_user
+[2025-10-24 03:52:29][INPUT] User_input:3
+[2025-10-24 03:52:32][INPUT] User_input_Create_Alarm:1
+[2025-10-24 03:52:35][CONFIG] Saved_2_alarms_to_file
+[2025-10-24 03:52:35][CONFIG] Alarm_added: CPU larm @ 90% on cpu @ 90%
+[2025-10-24 03:55:46][UI] Return_to_main_menu_confirmed
+[2025-10-24 03:55:46][UI] Menu_displayed_to_user
+[2025-10-24 03:55:50][INPUT] User_input:7
+[2025-10-24 03:55:50][SYSTEM] Application_is_exiting
+[2025-10-24 03:55:55][CONFIG] Loaded_2_alarms_from_file
+[2025-10-24 03:55:55][SYSTEM] Program_starts
+[2025-10-24 03:55:55][UI] Menu_displayed_to_user
+[2025-10-24 03:55:57][INPUT] User_input:3
+[2025-10-24 03:55:59][INPUT] User_input_Create_Alarm:1
+[2025-10-24 03:56:30][CONFIG] Saved_3_alarms_to_file
+[2025-10-24 03:56:30][CONFIG] Alarm_added: Warning!!! Very high CPU usage. on cpu @ 90%
+[2025-10-24 03:56:40][INPUT] User_input_Repeat_Alarm_Creation:Y
+[2025-10-24 03:56:43][INPUT] User_input_Create_Alarm:2
+[2025-10-24 03:57:21][CONFIG] Saved_4_alarms_to_file
+[2025-10-24 03:57:21][CONFIG] Alarm_added: RAM usage is very high on ram @ 80%
+[2025-10-24 03:57:24][INPUT] User_input_Repeat_Alarm_Creation:N
+[2025-10-24 03:57:29][UI] Return_to_main_menu_confirmed
+[2025-10-24 03:57:29][UI] Menu_displayed_to_user
+[2025-10-24 03:57:50][INPUT] User_input:4
+[2025-10-24 03:58:07][INPUT] User_input_Remove_Alarm:3
+[2025-10-24 03:58:07][CONFIG] Saved_3_alarms_to_file
+[2025-10-24 03:58:07][CONFIG] Alarm_removed: ID 8170...
+[2025-10-24 03:58:13][UI] Return_to_main_menu_confirmed
+[2025-10-24 03:58:13][UI] Menu_displayed_to_user
+[2025-10-24 03:58:17][INPUT] User_input:2
+[2025-10-24 03:58:17][UI] Current_system_status_listed
+[2025-10-24 03:58:24][UI] Return_to_main_menu_confirmed
+[2025-10-24 03:58:24][UI] Menu_displayed_to_user
+[2025-10-24 03:58:30][INPUT] User_input:5
+[2025-10-24 03:58:30][UI] Listed_3_configured_alarms
+[2025-10-24 03:58:41][UI] Return_to_main_menu_confirmed
+[2025-10-24 03:58:42][UI] Menu_displayed_to_user
+[2025-10-24 03:58:45][INPUT] User_input:6
+[2025-10-24 03:58:45][UI] Log_file_content_displayed
+[2025-10-24 04:03:13][UI] Return_to_main_menu_confirmed
+[2025-10-24 04:03:13][UI] Menu_displayed_to_user
+[2025-10-24 04:03:19][INPUT] User_input:7
+[2025-10-24 04:03:19][SYSTEM] Application_is_exiting
+[2025-10-24 04:03:22][CONFIG] Loaded_3_alarms_from_file
+[2025-10-24 04:03:22][SYSTEM] Program_starts
+[2025-10-24 04:03:22][UI] Menu_displayed_to_user
+[2025-10-24 04:03:28][INPUT] User_input:6
+[2025-10-24 04:03:39][INPUT] User_input_Log_Lines:20
+[2025-10-24 04:03:39][UI] Log_file_content_displayed,_20_lines_shown
+[2025-10-24 04:04:45][UI] Return_to_main_menu_confirmed
+[2025-10-24 04:04:45][UI] Menu_displayed_to_user
+[2025-10-24 04:04:54][INPUT] User_input:6
+[2025-10-24 04:05:01][INPUT] User_input_Log_Lines:1
+[2025-10-24 04:05:01][UI] Log_file_content_displayed,_1_lines_shown
+[2025-10-24 04:05:02][UI] Return_to_main_menu_confirmed
+[2025-10-24 04:05:02][UI] Menu_displayed_to_user
+[2025-10-24 04:05:03][INPUT] User_input:1
+[2025-10-24 04:05:03][SYSTEM] Monitoring_loop_running_at_5s_interval
+[2025-10-24 04:05:03][SYSTEM] Alarm_monitoring_thread_started
+[2025-10-24 04:05:03][SYSTEM] Monitoring_mode_started
+[2025-10-24 04:07:23][SYSTEM] Alarm_monitoring_thread_stopped
+[2025-10-24 04:07:23][SYSTEM] Program_terminated_via_KeyboardInterrupt
+[2025-10-24 04:08:12][CONFIG] Loaded_3_alarms_from_file
+[2025-10-24 04:08:12][SYSTEM] Program_starts
+[2025-10-24 04:08:13][UI] Menu_displayed_to_user
+[2025-10-24 04:08:14][INPUT] User_input:1
+[2025-10-24 04:08:14][SYSTEM] Monitoring_loop_running_at_5s_interval
+[2025-10-24 04:08:14][SYSTEM] Alarm_monitoring_thread_started
+[2025-10-24 04:08:14][SYSTEM] Monitoring_mode_started
+[2025-10-24 04:15:40][SYSTEM] Alarm_monitoring_thread_stopped
+[2025-10-24 04:15:40][SYSTEM] Program_terminated_via_KeyboardInterrupt
+[2025-10-24 04:15:44][ERROR] ERROR loading alarms: '>' not supported between instances of 'str' and 'int'
+[2025-10-24 04:15:44][SYSTEM] Program_starts
+[2025-10-24 04:15:44][UI] Menu_displayed_to_user
+[2025-10-24 04:15:47][INPUT] User_input:1
+[2025-10-24 04:15:47][SYSTEM] Background monitoring thread started.
+[2025-10-24 04:15:47][SYSTEM] Monitoring_mode_started
+[2025-10-24 04:15:56][SYSTEM] Background monitoring thread stopped.
+[2025-10-24 04:15:56][SYSTEM] Program_terminated_via_KeyboardInterrupt

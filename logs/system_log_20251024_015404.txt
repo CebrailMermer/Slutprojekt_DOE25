@@ -1,0 +1,30 @@
+2025-10-24 01:54:04 [SYSTEM] Ny loggfil skapad.
+2025-10-24 01:56:57 [INFO] Core features module initialized.
+2025-10-24 02:01:43 [INFO] Core features module initialized.
+2025-10-24 02:07:55 [INFO] Core features module initialized.
+2025-10-24 02:07:55 [ERROR] FEL vid laddning av larm: Alarm.__init__() got an unexpected keyword argument 'alarm_id'
+2025-10-24 02:07:55 [INFO] AlarmManager initierad. Laddade alarms.
+2025-10-24 02:08:04 [WARN] Monitoring started without active alarms.
+2025-10-24 02:08:04 [INFO] Övervakningstråd startad.
+2025-10-24 02:08:04 [INFO] Continuous monitoring started.
+2025-10-24 02:11:27 [INFO] Övervakningstråd stoppad säkert.
+2025-10-24 02:11:27 [INFO] Continuous monitoring stopped.
+2025-10-24 02:11:43 [INFO] Application exited via KeyboardInterrupt (Ctrl+C).
+2025-10-24 02:11:53 [INFO] Core features module initialized.
+2025-10-24 02:11:53 [ERROR] FEL vid laddning av larm: Alarm.__init__() got an unexpected keyword argument 'alarm_id'
+2025-10-24 02:11:53 [INFO] AlarmManager initierad. Laddade alarms.
+2025-10-24 02:11:56 [WARN] Monitoring started without active alarms.
+2025-10-24 02:11:56 [INFO] Övervakningstråd startad.
+2025-10-24 02:11:56 [INFO] Continuous monitoring started.
+2025-10-24 02:17:21 [INFO] Övervakningstråd stoppad säkert.
+2025-10-24 02:17:21 [INFO] Continuous monitoring stopped.
+2025-10-24 02:17:26 [INFO] Application exited via KeyboardInterrupt (Ctrl+C).
+2025-10-24 02:17:30 [INFO] Core features module initialized.
+2025-10-24 02:17:30 [ERROR] FEL vid laddning av larm: Alarm.__init__() got an unexpected keyword argument 'alarm_id'
+2025-10-24 02:17:30 [INFO] AlarmManager initierad. Laddade alarms.
+2025-10-24 02:17:33 [WARN] Monitoring started without active alarms.
+2025-10-24 02:17:33 [INFO] Övervakningstråd startad.
+2025-10-24 02:17:33 [INFO] Continuous monitoring started.
+2025-10-24 02:58:35 [INFO] Övervakningstråd stoppad säkert.
+2025-10-24 02:58:35 [INFO] Application exited via KeyboardInterrupt (Ctrl+C).
+2025-10-24 03:06:11 [INFO] Core features module initialized.

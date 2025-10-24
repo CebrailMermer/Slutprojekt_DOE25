@@ -1,0 +1,15 @@
+[
+    {
+        "id": "b5a4abcf-bfef-41c4-b7d9-192a527dec09",
+        "name": "CPU larm 90%",
+        "resource": "cpu",
+        "threshold": 90
+    },
+    {
+        "id": "f4c28329-fa87-4057-a8ea-60efbfab1258",
+        "name": "CPU close to crash",
+        "resource": "cpu",
+        "threshold": 7,
+        "active_period": "night"
+    }
+]

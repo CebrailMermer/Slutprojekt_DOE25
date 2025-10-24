@@ -1,0 +1,7 @@
+2025-10-23,18:36:32,INFO,AlarmManager initialized.
+2025-10-23,18:36:32,INFO,Logger initialized and ready.
+2025-10-23,18:36:38,INPUT,User_Input_MenuChoice: 1
+2025-10-23,18:36:38,INFO,Monitoring thread started.
+2025-10-23,18:36:39,MONITOR,CPU Usage: 13.7%, RAM Usage: 73.2%
+2025-10-23,18:36:46,INPUT,User_Input_MenuChoice: 1
+2025-10-23,18:38:48,INPUT,User_Input_MenuChoice: 7

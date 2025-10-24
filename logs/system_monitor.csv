@@ -1,0 +1,89 @@
+Timestamp,Category,Message
+2025-10-24 12:37:53,SYSTEM,System_Core_initialized
+2025-10-24 12:43:36,SYSTEM,System_Core_initialized
+2025-10-24 12:45:21,SYSTEM,System_Core_initialized
+2025-10-24 12:45:21,SYSTEM,Application_start_attempt
+2025-10-24 12:45:21,SYSTEM,Loaded_10_alarms_from_alarms.json
+2025-10-24 12:45:22,SYSTEM,Monitoring_thread_started
+2025-10-24 12:45:22,STATUS,Monitoring_loop_running
+2025-10-24 12:45:22,SYSTEM,GUI_started_successfully
+2025-10-24 12:45:22,ALARM,Alarm_triggered:_Very low RAM usage_ram_70.9%
+2025-10-24 12:45:24,UI,GUI_displaying_triggered_alarm:_fb7b...
+2025-10-24 12:45:27,ALARM,Alarm_triggered:_CPU close to crash_cpu_56.3%
+2025-10-24 12:45:28,UI,GUI_displaying_triggered_alarm:_aa47...
+2025-10-24 12:45:32,ALARM,Alarm_triggered:_CPU Alarm @ 5 %_cpu_18.3%
+2025-10-24 12:45:34,UI,GUI_displaying_triggered_alarm:_d930...
+2025-10-24 12:46:40,SYSTEM,Application_shutdown_initiated_by_user
+2025-10-24 12:46:40,SYSTEM,Monitoring_loop_exited
+2025-10-24 12:46:40,SYSTEM,Monitoring_thread_stopped
+2025-10-24 12:46:40,SYSTEM,Application_exit_complete
+2025-10-24 12:49:45,SYSTEM,System_Core_initialized
+2025-10-24 12:49:45,SYSTEM,Application_start_attempt
+2025-10-24 12:49:45,SYSTEM,Loaded_10_alarms_from_alarms.json
+2025-10-24 12:49:46,SYSTEM,Monitoring_thread_started
+2025-10-24 12:49:46,SYSTEM,GUI_started_successfully
+2025-10-24 12:49:46,STATUS,Monitoring_loop_running
+2025-10-24 12:49:46,ALARM,Alarm_triggered:_Very low RAM usage_ram_73.3%
+2025-10-24 12:49:48,UI,GUI_displaying_triggered_alarm:_fb7b...
+2025-10-24 12:49:51,ALARM,Alarm_triggered:_CPU close to crash_cpu_54.0%
+2025-10-24 12:49:52,UI,GUI_displaying_triggered_alarm:_aa47...
+2025-10-24 12:49:56,ALARM,Alarm_triggered:_CPU Alarm @ 5 %_cpu_23.4%
+2025-10-24 12:49:57,UI,GUI_displaying_triggered_alarm:_d930...
+2025-10-24 12:50:07,SYSTEM,Application_shutdown_initiated_by_user
+2025-10-24 12:50:07,SYSTEM,Monitoring_loop_exited
+2025-10-24 12:50:07,SYSTEM,Monitoring_thread_stopped
+2025-10-24 12:50:07,SYSTEM,Application_exit_complete
+2025-10-24 12:51:19,SYSTEM,System_Core_initialized
+2025-10-24 12:51:19,SYSTEM,Application_start_attempt
+2025-10-24 12:51:19,SYSTEM,Loaded_10_alarms_from_alarms.json
+2025-10-24 12:51:19,STATUS,Monitoring_loop_running
+2025-10-24 12:51:19,SYSTEM,Monitoring_thread_started
+2025-10-24 12:51:19,SYSTEM,GUI_started_successfully
+2025-10-24 12:51:19,ALARM,Alarm_triggered:_Very low RAM usage_ram_71.9%
+2025-10-24 12:51:21,UI,GUI_displaying_triggered_alarm:_fb7b...
+2025-10-24 12:51:24,ALARM,Alarm_triggered:_CPU close to crash_cpu_53.7%
+2025-10-24 12:51:25,UI,GUI_displaying_triggered_alarm:_aa47...
+2025-10-24 12:51:29,ALARM,Alarm_triggered:_CPU Alarm @ 5 %_cpu_25.7%
+2025-10-24 12:51:29,UI,GUI_displaying_triggered_alarm:_d930...
+2025-10-24 12:53:43,SYSTEM,System_Core_initialized
+2025-10-24 12:53:43,SYSTEM,Application_start_attempt
+2025-10-24 12:53:43,SYSTEM,Loaded_10_alarms_from_alarms.json
+2025-10-24 12:53:43,STATUS,Monitoring_loop_running
+2025-10-24 12:53:43,SYSTEM,Monitoring_thread_started
+2025-10-24 12:53:43,SYSTEM,GUI_started_successfully
+2025-10-24 12:53:43,ALARM,Alarm_triggered:_Very low RAM usage_ram_71.8%
+2025-10-24 12:53:45,UI,GUI_displaying_triggered_alarm:_fb7b...
+2025-10-24 12:53:48,ALARM,Alarm_triggered:_CPU close to crash_cpu_43.3%
+2025-10-24 12:53:49,UI,GUI_displaying_triggered_alarm:_aa47...
+2025-10-24 12:53:53,ALARM,Alarm_triggered:_CPU Alarm @ 5 %_cpu_22.5%
+2025-10-24 12:53:55,ALARM_CONFIG,Saved_9_alarms_to_alarms.json
+2025-10-24 12:53:59,UI,Alarm_deleted:_0510
+2025-10-24 12:53:59,UI,GUI_displaying_triggered_alarm:_d930...
+2025-10-24 12:54:10,ALARM_CONFIG,Saved_8_alarms_to_alarms.json
+2025-10-24 12:54:13,UI,Alarm_deleted:_aa47
+2025-10-24 12:57:54,SYSTEM,System_Core_initialized
+2025-10-24 13:33:30,SYSTEM,System_Core_initialized
+2025-10-24 13:52:56,SYSTEM,System_Core_initialized
+2025-10-24 14:00:24,SYSTEM,System_Core_initialized
+2025-10-24 14:06:20,SYSTEM,System_Core_initialized
+2025-10-24 14:06:20,INFO,Loaded 8 alarms from alarms.json.
+2025-10-24 14:06:20,SYSTEM,AlarmManager initialized for App ID: system-monitor-v1
+2025-10-24 14:06:20,INFO,Monitoring thread started successfully.
+2025-10-24 14:06:20,SYSTEM,Attempting to start monitoring thread.
+2025-10-24 14:06:20,ERROR,Error during monitoring loop: 'resource_type'
+2025-10-24 14:06:21,INFO,Loaded 8 alarms from alarms.json.
+2025-10-24 14:06:21,SYSTEM,AlarmManager initialized for App ID: .
+2025-10-24 14:06:21,INFO,Monitoring thread started successfully.
+2025-10-24 14:06:21,SYSTEM,Attempting to start monitoring thread.
+2025-10-24 14:06:21,ERROR,Error during monitoring loop: 'resource_type'
+2025-10-24 14:07:55,SYSTEM,System_Core_initialized
+2025-10-24 14:07:55,INFO,Loaded 8 alarms from alarms.json.
+2025-10-24 14:07:55,SYSTEM,AlarmManager initialized for App ID: system-monitor-v1
+2025-10-24 14:07:55,INFO,Monitoring thread started successfully.
+2025-10-24 14:07:55,SYSTEM,Attempting to start monitoring thread.
+2025-10-24 14:07:56,ERROR,Error during monitoring loop: 'resource_type'
+2025-10-24 14:07:56,INFO,Loaded 8 alarms from alarms.json.
+2025-10-24 14:07:56,SYSTEM,AlarmManager initialized for App ID: .
+2025-10-24 14:07:56,INFO,Monitoring thread started successfully.
+2025-10-24 14:07:56,SYSTEM,Attempting to start monitoring thread.
+2025-10-24 14:07:56,ERROR,Error during monitoring loop: 'resource_type'
